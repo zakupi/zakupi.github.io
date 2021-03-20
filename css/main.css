@@ -692,7 +692,7 @@ video {
 }
 .reward .btn-reward {
   padding: 10px 20px;
-  background-color: #399c9c;
+  background-color: #ff6332;
   color: #fff;
   display: inline-block;
   transition: all 0.3s;
@@ -705,8 +705,8 @@ video {
   display: none;
 }
 .reward .reward-wrapper img {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 330px;
   border: 1px solid #f0f0f0;
   margin: 0 10px;
 }
